@@ -8,6 +8,7 @@
             <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
             Designé par <a href="https://bootstrapmade.com/">BootstrapMade</a> <br/>
             Back-End & adaptation par Luca
+            Version 1.0.0
         </div>
     </div>
 </footer><!-- End  Footer -->

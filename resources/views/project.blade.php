@@ -11,7 +11,7 @@
                 <div class="d-flex justify-content-between align-items-center">
                     <h2>Détail du projet</h2>
                     <ol>
-                        <li><a href="/">Accueil/</a></li>
+                        <li><a href="/">Accueil</a></li>
                         <li>{{ $project->title }}</li>
                     </ol>
                 </div>
@@ -53,8 +53,8 @@
                             <ul>
                                 <li><strong>Catégorie</strong>: <span style="text-transform: capitalize;">{{ $project->category }}</span></li>
                                 <li><strong>Type</strong>: {{ $project->type }}</li>
-                                <li><strong>Client</strong>: {{ $project->client }}</li>
-                                @if(!empty($project->link))<li><strong>Lien</strong>: <a href="{{ $project->link }}">{{ $project->link }}</a></li>@endif
+                                @if(!empty($project->client))<li><strong>Client</strong>: {{ $project->client }}</li>@endif
+                                @if(!empty($project->url))<li><strong>Lien</strong>: <a href="{{ $project->url }}">{{ $project->url }}</a></li>@endif
                                 @if(!empty($project->sources))<li><strong>Sources</strong>: <a href="{{ $project->sources }}">{{ $project->sources }}</a></li>@endif
                             </ul>
                         </div>

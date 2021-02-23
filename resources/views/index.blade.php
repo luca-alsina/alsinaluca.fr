@@ -18,7 +18,7 @@
 
                 <div class="section-title">
                     <h2>Profil</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                    <p></p>
                 </div>
 
                 <div class="row">
@@ -45,8 +45,7 @@
                             </div>
                         </div>
                         <p>
-                            Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-                            Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
+                            Doué d'une grande curiosité de naissance, je me suis toujours intéressé à comment les choses fonctionnent en général. Ce questionnement s'est très vite dirigé vers tout le milieu de l'informatique et plus précisément sur le fonctionnement des sites web. C'est pour cela que depuis plusieures années, j'apprends le développement WEB pour mon propre plaisir.
                         </p>
                     </div>
                 </div>
@@ -59,8 +58,8 @@
             <div class="container">
 
                 <div class="section-title">
-                    <h2>Skills</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                    <h2>Compétences</h2>
+                    <p>Durant toutes ces années, j'ai développé plusieures compétences dont certaines que j'ai plus travaillé et d'autres un peu moins. Il est à noter que les informations ci-dessous ne sont que des estimation de ma part et basées sur moi. C'est à dire qu'une compétence à 100% est une des choses que je maîtrise personnellement le mieux.</p>
                 </div>
 
                 <div class="row skills-content">
@@ -68,9 +67,9 @@
                     <div class="col-lg-6" data-aos="fade-up">
 
                         <div class="progress">
-                            <span class="skill">Design <i class="val">40%</i></span>
+                            <span class="skill">Design <i class="val">30%</i></span>
                             <div class="progress-bar-wrap">
-                                <div class="progress-bar" style="background-color: mediumseagreen;" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
+                                <div class="progress-bar" style="background-color: mediumseagreen;" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                         </div>
 
@@ -82,21 +81,21 @@
                         </div>
 
                         <div class="progress">
-                            <span class="skill">JavaScript <i class="val">30%</i></span>
+                            <span class="skill">JavaScript <i class="val">20%</i></span>
                             <div class="progress-bar-wrap">
-                                <div class="progress-bar" style="background-color: yellow;" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
+                                <div class="progress-bar" style="background-color: yellow;" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                         </div>
 
                         <div class="progress">
-                            <span class="skill">Bootstrap <i class="val">50%</i></span>
+                            <span class="skill">Bootstrap <i class="val">60%</i></span>
                             <div class="progress-bar-wrap">
-                                <div class="progress-bar" style="background-color: #6f42c1;" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                <div class="progress-bar" style="background-color: #6f42c1;" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                         </div>
 
                         <div class="progress">
-                            <span class="skill">Français (Qualité de rédaction & orthographe)<i class="val">80%</i></span>
+                            <span class="skill">Français de rédaction<i class="val">70%</i></span>
                             <div class="progress-bar-wrap">
                                 <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
@@ -107,16 +106,16 @@
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
 
                         <div class="progress">
-                            <span class="skill">PHP <i class="val">90%</i></span>
+                            <span class="skill">PHP <i class="val">80%</i></span>
                             <div class="progress-bar-wrap">
-                                <div class="progress-bar" style="background-color: royalblue;" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                                <div class="progress-bar" style="background-color: royalblue;" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                         </div>
 
                         <div class="progress">
-                            <span class="skill">Laravel <i class="val">70%</i></span>
+                            <span class="skill">Laravel <i class="val">40%</i></span>
                             <div class="progress-bar-wrap">
-                                <div class="progress-bar" style="background-color: red;" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                                <div class="progress-bar" style="background-color: red;" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                         </div>
 
@@ -135,7 +134,7 @@
                         </div>
 
                         <div class="progress">
-                            <span class="skill">Prestation orale (Présentations, entretiens, ...) <i class="val">85%</i></span>
+                            <span class="skill">Prestation orale <i class="val">85%</i></span>
                             <div class="progress-bar-wrap">
                                 <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
@@ -162,11 +161,12 @@
                         <h3 class="resume-title">Formations</h3>
                         <div class="resume-item pb-0">
                             <h4>Udemy</h4>
-                            <p><em>Formations diverses achetées sur le site Udemy afin d'approfondir dans mes domaines d'apprentissage.</em></p>
+                            <p><em>Formations diverses sur le site Udemy.</em></p>
                             <ul>
                                 <li>Cours de développement WEB Front-End avec HTML & CSS</li>
-                                <li>Cours de développement POO Back-End avec PHP</li>
+                                <li>Cours de développement Back-End POO avec PHP</li>
                                 <li>Cours de développement Back-End MVC avec Laravel</li>
+                                <li>Cours de SEO</li>
                             </ul>
                         </div>
 
@@ -197,10 +197,8 @@
                             <h5>Novembre 2018</h5>
                             <p><em>Selecom Critical Coms, Prades, France</em></p>
                             <ul>
-                                <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-                                <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                                <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                                <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
+                                <li>Service Recherche & Développement</li>
+                                <li>Création d'extensions au panneau de gestion des produits</li>
                             </ul>
                         </div>
                         <div class="resume-item">
@@ -208,10 +206,8 @@
                             <h5>Octobre 2019 - Mai 2020</h5>
                             <p><em>OuiHeberg</em></p>
                             <ul>
-                                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                                <li>Développement d'outils pour faciliter la gestion et l'utilisation des services.</li>
+                                <li>Gestion de toute la partie support.</li>
                             </ul>
                         </div>
                     </div>
@@ -226,7 +222,7 @@
 
                 <div class="section-title">
                     <h2>Portfolio</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                    <p>Voici une partie des projets WEB sur lesquels j'ai trravaillé.</p>
                 </div>
 
                 <div class="row" data-aos="fade-up">
